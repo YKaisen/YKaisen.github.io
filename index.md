@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a PhD student at <a href="https://www.vt.edu/"> Virginia Tech</a>'s <a href="https://cpes.vt.edu/"> Center for Power Electronis Systems</a> with the supervision of Prof. <a href="https://cpes.vt.edu/people/faculty/1703"> Qiang Li</a>. I was born and raised in Wenshui, Shanxi Province, China, a small town but with historic stories and profund historical remains. I graduated from <a href="https://english.dlmu.edu.cn/">Dalian Maritime University</a> with bachelor's degree and highest honour, known as Top Ten Students and President's Scholarship, in the summer of 2024. 
 
-My research interest mainly focused on single-stage solution for data center power supply. Nowadays more than 80% costs of data centers' expenditure goes to electricity. Our goal is to expolore and develop high-efficiency, high-density and high-performance power solutions to alleviate the challenges of data centers.
+My research interest mainly focused on single-stage solution for data center power supply. Nowadays more than 80% costs of data centers' expenditure goes to electricity. Our goal is to expolore and develop high-performance high-efficiency and high-density power solutions to alleviate the challenges of data centers.
 
 <!-- This kind of mark can hide sentences -->
 
