@@ -10,7 +10,7 @@ My research interest mainly focused on single-stage solution for data center pow
 
 <!-- This kind of mark can hide sentences -->
 
-Outside of academia, I am an <a href="https://en.wikipedia.org/wiki/Bamboo_flute"> bamboo flute</a> player, also interested in photography and traveling. For the past few years, I have been to many cities, Taiyuan, Datong, Changzhi, Qindao, Zibo, Tianjin, Dalian, Shengyang, Beijing, Shanghai, Nanjing, Hangzhou, Suzhou，Chengdu, Chongqin, Hohhôt, Baotou, Ulanqab, Changbai Mountains, Mount Tai, London, Istanbul, Newyork, Washington DC, Raleigh, Charlotte, Toronto. I am aiming to set foot on every continent and every ocean on the planet.
+Outside of academia, I am an <a href="https://en.wikipedia.org/wiki/Bamboo_flute"> bamboo flute</a> player, also interested in photography and traveling. For the past few years, I have been to many cities, Taiyuan, Datong, Changzhi, Qindao, Zibo, Tianjin, Dalian, Shengyang, Beijing, Shanghai, Nanjing, Hangzhou, Suzhou, Chengdu, Chongqin, Hohhôt, Baotou, Ulanqab, Changbai Mountains, Mount Tai, London, Istanbul, Newyork, Washington DC, Raleigh, Charlotte, Toronto. I am aiming to set foot on every continent and every ocean on the planet.
 
 
 ## Research Interests
