@@ -2,16 +2,16 @@ url: "https://ykaisen.github.io/"
 # Basic Information 
 title: Kaisen Yang
 # subtitle: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-position: Undergraduate Student
+position: Graduate Research Asistant
 # subposition: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 # subposition_link: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-affiliation: Dalian Maritime University
-subaffiliation: College of Marine Electric Engineering
-affiliation_link: https://www.dlmu.edu.cn/index.htm
-subaffiliation_link: https://cbdq.dlmu.edu.cn/
-email: yangkaisen@dlmu.edu.cn
-address: 1 Linghai Road, Dalian, Liaoning 116026
-address_link: https://www.google.com/maps/place/%E5%A4%A7%E8%BF%9E%E6%B5%B7%E4%BA%8B%E5%A4%A7%E5%AD%A6/@38.870041,121.5315661,17z/data=!3m1!4b1!4m6!3m5!1s0x358f6406d8a093ad:0xcdbd138d8453da8e!8m2!3d38.870041!4d121.534141!16zL20vMDNwd3px?entry=ttu
+affiliation: Virginia Tech
+subaffiliation: Center for Power Electronics Systems
+affiliation_link: https://cpes.vt.edu/
+subaffiliation_link: https://cpes.vt.edu/
+email: kaisenyang@vt.edu
+address: 1185 Perry St. Blacksburg, VA 24061
+address_link: https://maps.app.goo.gl/3BR54dfmTgvwJrqa8
 
 
 
@@ -24,7 +24,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 # google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
-cv_link: assets/files/CV_Kaisen.pdf
+cv_link: 
 github_link: https://github.com/YKaisen
 linkedin: https://www.linkedin.com/in/kaisenyang/
 twitter: https://twitter.com/ksmagic666
