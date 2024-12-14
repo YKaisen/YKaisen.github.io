@@ -4,25 +4,24 @@ layout: homepage
 
 ## About Me
 
-I'm an <a href="https://en.wikipedia.org/wiki/Electrical_engineering"> Electrical Engineering</a> senior student at <a href="https://www.dlmu.edu.cn/"> Dalian Maritime University</a>'s <a href="https://cbdq.dlmu.edu.cn/"> College of Marine Electrical Engineering</a>. After attending the <a href="https://en.wikipedia.org/wiki/Gaokao"> Chinese College Entrance Examination</a>, which is also known as Gaokao, I was admitted to Marine Electrical and Electronic Engineering at Dalian Maritime University and switched my major due to my academic interests by the end of the first semester.
+I'm a PhD student at <a href="https://www.vt.edu/"> Virginia Tech</a>'s <a href="https://cpes.vt.edu/"> Center for Power Electronis Systems</a> with the supervision of Prof. <a href="https://cpes.vt.edu/people/faculty/1703"> Qiang Li</a>. I was born and raised in Wenshui, Shanxi Province, China, a small town but with historic stories and profund historical remains. I graduated from <a href="https://english.dlmu.edu.cn/">Dalian Maritime University</a> with bachelor's degree and highest honour, known as Top Ten Students and President's Scholarship in the summer of 2024. 
 
-In the summer of 2023, I gave up the opportunity to be directly admitted to graduate program at top universities in China and decided to pursue my academic goals overseas. 
-I will join the <a href="https://cpes.vt.edu/"> Center for Power Electronics Systems</a> at <a href="https://www.vt.edu/"> Virginia Tech</a> for my PhD starting from the fall semester of 2024, with the supervision of Prof. <a href="https://cpes.vt.edu/people/faculty/1703"> Qiang Li</a>. 
+My research interest mainly focused on single-stage solution for data center power supply. Nowadays more than 80% costs of data centers' expenditure goes to electricity. Our goal is to expolore and develop high-efficiency, high-density and high-performance power solutions to alleviate the challenges of data centers.
 
 <!-- This kind of mark can hide sentences -->
 
-Outside of academia, I am an amateur <a href="https://en.wikipedia.org/wiki/Bamboo_flute"> bamboo flute</a> player and a passionate basketball player. In addition, I am also interested in photography and playing guitar.
+Outside of academia, I am an <a href="https://en.wikipedia.org/wiki/Bamboo_flute"> bamboo flute</a> player, also interested in photography and traveling. For the past few years, I have been to many cities, Taiyuan, Datong, Changzhi, Qindao, Zibo, Tianjin, Dalian, Shengyang, Beijing, Shanghai, Nanjing, Hangzhou, Suzhou，Chenddu, Chongqin, Hohhôt，Baotou, Ulanqab, Changbai Mountains, Mount Tai, London, Istanbul, Newyork, Washington DC, Raleigh, Charlotte, Toronto. I am aiming to set foot on every continent and every ocean on the planet.
 
 
 ## Research Interests
-- **DC-DC Converter:** topology and control for LLC resonant converter
+- **DC-DC Converters:** topology and control for 48V-1V PoL converters
+- **Magnectic Integration:** design and optimizaion for PCB-based transformers and inductors
+
 
 
 ## Awards
 - **[Sept. 2023]** <a href="https://www.dlmu.edu.cn/info/1089/57358.htm">*Top Ten Undergraduate Students and President's Scholarship*</a> at Dalian Maritime University
 - **[Apr. 2023]** <a href="https://www.comap.com/contests/mcm-icm">*Meritorious Winner*</a> in 2023 MCM/ICM
-- **[Dec. 2022]** <a href="https://cy.ncss.cn/">*Bronze Award*</a> in The 8th China International College Students’ “Internet+” Innovation and
-Entrepreneurship Competition
 - **[Sept. 2022]** <a href="https://subsites.chinadaily.com.cn/YunnanUniversity/2017-11/17/c_111548.htm">*China National Scholarship*</a> for undergraduate student
 
 
