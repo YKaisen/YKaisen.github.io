@@ -6,11 +6,9 @@ layout: homepage
 
 I'm a PhD student at <a href="https://www.vt.edu/"> Virginia Tech</a>'s <a href="https://cpes.vt.edu/"> Center for Power Electronis Systems</a> with the supervision of Prof. <a href="https://cpes.vt.edu/people/faculty/1703"> Qiang Li</a>. I was born and raised in Wenshui, Shanxi Province, China, a small town but with historic stories and profund historical remains. I graduated from <a href="https://english.dlmu.edu.cn/">Dalian Maritime University</a> with bachelor's degree and highest honour, known as Top Ten Students and President's Scholarship, in the summer of 2024. 
 
-My research interest mainly focused on single-stage solution for data center power supply. Nowadays more than 80% costs of data centers' expenditure goes to electricity. Our goal is to expolore and develop high-performance, high-efficiency and high-density power solutions to alleviate the challenges of data centers.
+My research interest mainly focused on 48V Point-of-Load converter for data center power supply. Nowadays more than 80% costs of data centers' expenditure goes to electricity. Our goal is to expolore and develop high-performance, high-efficiency and high-density power solutions to alleviate the challenges of data centers.
 
 <!-- This kind of mark can hide sentences -->
-
-Outside of academia, I am an <a href="https://en.wikipedia.org/wiki/Bamboo_flute"> bamboo flute</a> player, also interested in photography and traveling. For the past few years, I have been to many cities, Taiyuan, Datong, Changzhi, Qindao, Zibo, Tianjin, Dalian, Shengyang, Beijing, Shanghai, Nanjing, Hangzhou, Suzhou, Chengdu, Chongqin, Hohhôt, Baotou, Ulanqab, Changbai Mountains, Mount Tai, London, Istanbul, Newyork, Washington DC, Raleigh, Charlotte, Toronto. I am aiming to set foot on every continent and every ocean on the planet.
 
 
 ## Research Interests
