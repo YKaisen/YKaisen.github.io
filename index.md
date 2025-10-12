@@ -12,7 +12,7 @@ My research interest mainly focused on 48V Point-of-Load converter for data cent
 
 
 ## Research Interests
-- **DC-DC Converters:** topology and control for 48V-1V PoL converters
+- **DC-DC Converters:** topologies and controls for datacenter PoL converters
 - **Magnectic Integration:** design and optimizaion for PCB-based transformers and inductors
 
 
