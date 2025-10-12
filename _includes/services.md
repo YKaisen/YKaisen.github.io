@@ -1,16 +1,19 @@
 ## Services
 
-<!-- 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>-->
 
-<!-- 
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+
+
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.frontiersin.org" target="_blank"> Frontiers in Surgery </a></li>
-  <li><a href="https://www.jmcp.org" target="_blank"> Journal of Managed Care & Specialty Pharmacy </a></li>
-</ul> -->
+  <li><a href="https://www.ieee-pels.org/publications/transactions-on-power-electronics/" target="_blank"> IEEE Transactions on Power Electronics </a></li>
+  <li><a href="https://www.ieee-pels.org/publications/journal-of-emerging-and-selected-topics-in-power-electronics/" target="_blank"> IEEE Journal of Emerging and Selected Topics in Power Electronics </a></li>
+  <li><a href="https://www.ieee-pels.org/publications/open-journal-of-power-electronics/" target="_blank"> IEEE Open Journal of Power Electronics </a></li>
+</ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><strong>[2022-2023]</strong> President of Delta Student Union at Dalian Maritime University </a></li>
+</ul> 
   <li><strong>[2020-2022]</strong> Co-Founder & President of the <a href="https://space.bilibili.com/479686973/video" target="_blank"> Spring Rain League of Students </a></li>
 </ul> 
