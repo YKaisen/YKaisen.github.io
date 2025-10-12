@@ -13,7 +13,7 @@
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2024-2025]</strong> Member of CPES Student Council  </a></li>
-  <li><strong>[2022-2023]</strong> President of Delta Student Union at Dalian Maritime University </a></li>
+  <li><strong>[2024-2025]</strong> Member of CPES Student Council  </li>
+  <li><strong>[2022-2023]</strong> President of Delta Student Union at Dalian Maritime University </li>
   <li><strong>[2020-2022]</strong> Co-Founder & President of the <a href="https://space.bilibili.com/479686973/video" target="_blank"> Spring Rain League of Students </a></li>
 </ul> 
