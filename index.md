@@ -17,12 +17,6 @@ My research interest mainly focused on 48V Point-of-Load converter for data cent
 
 
 
-## Awards
-- **[Sept. 2023]** <a href="https://www.dlmu.edu.cn/info/1089/57358.htm">*Top Ten Undergraduate Students and President's Scholarship*</a> at Dalian Maritime University
-- **[Apr. 2023]** <a href="https://www.comap.com/contests/mcm-icm">*Meritorious Winner*</a> in 2023 MCM/ICM
-- **[Sept. 2022]** <a href="https://subsites.chinadaily.com.cn/YunnanUniversity/2017-11/17/c_111548.htm">*China National Scholarship*</a> for undergraduate student
-
-
 <!-- {% include_relative _includes/publications.md %} -->
 
 
@@ -45,6 +39,10 @@ My research interest mainly focused on 48V Point-of-Load converter for data cent
 
 {% include_relative _includes/services.md %}
 
+## Awards
+- **[Sept. 2023]** <a href="https://www.dlmu.edu.cn/info/1089/57358.htm">*Top Ten Undergraduate Students and President's Scholarship*</a> at Dalian Maritime University
+- **[Apr. 2023]** <a href="https://www.comap.com/contests/mcm-icm">*Meritorious Winner*</a> in 2023 MCM/ICM
+- **[Sept. 2022]** <a href="https://subsites.chinadaily.com.cn/YunnanUniversity/2017-11/17/c_111548.htm">*China National Scholarship*</a> for undergraduate student
 
 ## Resources
 
