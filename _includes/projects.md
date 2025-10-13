@@ -20,9 +20,10 @@
 <!--     <a href="assets/files/single.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>-->
       <a href="assets/files/2223_21_10151_080601_2220200576_LW_001.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis</a>
       <a href="assets/files/谐振型DCDC双有源桥的控制研究.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
-<!--      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>-->
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Operation Waveform</a>
+      <a href="assets/img/死区时间软开关实现.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Soft Switching</a>
+<!--         <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
     </div>
   </div>
 </div>
