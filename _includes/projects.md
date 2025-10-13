@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Resonant Dual-Active Bridge Converter</a></div>
-    <div class="author"><strong>Kaisen Yang, Xin Zhou*</strong></div>
+    <div class="author"><strong>Kaisen Yang</strong></div>
     <div class="periodical"><em>Undergraduate Thesis, Jun. 2024.</em></div>
     <div class="links">
 <!--     <a href="assets/files/single.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>-->
