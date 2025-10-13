@@ -14,6 +14,10 @@ My research interest mainly focused on 48V Point-of-Load converter for data cent
 
 <!-- This kind of mark can hide sentences -->
 
+## Education
+- **[Aug. 2024-]** <a href="https://www.dlmu.edu.cn/info/1089/57358.htm">*Top Ten Undergraduate Students and President's Scholarship*</a> at Dalian Maritime University
+- **[Sept. 2020 - Jun. 2024]** B.E. in Electrical Engineering, Dalian Maritime University, Dalian, China
+
 ## Research Interests
 - **DC-DC Converters:** topologies and controls for datacenter PoL converters
 - **Magnectic Integration:** design and optimizaion for PCB-based transformers and inductors
