@@ -31,7 +31,7 @@ GPA: 4.2 / 5.0
 
 ## Work Experience
 **Graduate Research Assistant**  
-_Virginia Tech_ — <a href="https://cpes.vt.edu/"> Center for Power Electronis Systems</a>
+_Virginia Tech_ — <a href="https://cpes.vt.edu/"> Center for Power Electronis Systems</a><br>
 Blacksburg, U.S._ · Aug. 2024 — Now  
 
 <!-- {% include_relative _includes/publications.md %} -->
