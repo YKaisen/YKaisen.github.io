@@ -15,8 +15,14 @@ My research interest mainly focused on 48V Point-of-Load converter for data cent
 <!-- This kind of mark can hide sentences -->
 
 ## Education
-- **[Aug. 2024-]** <a href="https://www.dlmu.edu.cn/info/1089/57358.htm">*Top Ten Undergraduate Students and President's Scholarship*</a> at Dalian Maritime University
-- **[Sept. 2020 - Jun. 2024]** B.E. in Electrical Engineering, Dalian Maritime University, Dalian, China
+**Ph.D. in Electrical Engineering**  
+_Virginia Tech_ · Aug. 2024 — Now  
+<!--GPA: 3.85 / 4.0  
+Thesis: *High-efficiency PoL Converter Design for xPU Applications*  -->
+
+**B.E. in Electronic Engineering**  
+_Dalian Maritime University_ · Sept. 2020 — Jun. 2024  
+GPA: 4.2 / 5.0  
 
 ## Research Interests
 - **DC-DC Converters:** topologies and controls for datacenter PoL converters
