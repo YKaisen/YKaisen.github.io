@@ -24,10 +24,10 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 # google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
-cv_link: 
+cv_link: ./assets/files/CV_Kaisen_MSc.pdf
 github_link: https://github.com/YKaisen
 linkedin: https://www.linkedin.com/in/kaisenyang/
-twitter: 
+orcid: https://orcid.org/0009-0000-6376-601X
 instagram: https://www.instagram.com/yks0576?igsh=MzNlNGNkZWQ4Mg==
 
 # Images (e.g., your profile picture and your website's favicon) 
