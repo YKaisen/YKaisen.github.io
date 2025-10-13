@@ -21,7 +21,7 @@ My research interest mainly focused on 48V Point-of-Load converter for data cent
 ## Education
 
 - **Ph.D. in Electrical Engineering**  
-  _Virginia Tech, Blacksburg, U.S. · Aug. 2024 — now_
+  _Virginia Tech, Blacksburg, U.S. · Aug. 2024 — now_<br>
   Advisor: Prof. Qiang Li  
 
 - **B.E. in Electronic Engineering**  
