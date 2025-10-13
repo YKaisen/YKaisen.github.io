@@ -20,7 +20,6 @@
 <!--     <a href="assets/files/single.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>-->
       <a href="assets/files/2223_21_10151_080601_2220200576_LW_001.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis</a>
       <a href="assets/files/谐振型DCDC双有源桥的控制研究.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
-      <a href="assets/img/SimuSys.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a>
       <a href="assets/img/UGprototype.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Testbed</a>
       <a href="assets/img/混合切Vset电压波.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Hardware Waveforms</a>
       <a href="assets/img/死区时间软开关实现.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Soft Switching</a>
