@@ -19,22 +19,26 @@ My research interest mainly focused on 48V Point-of-Load converter for data cent
 - **Magnectic Integration:** design and optimizaion for PCB-based transformers and inductors
 
 ## Education
-**Ph.D. in Electrical Engineering**  
-_Virginia Tech_ <br>
-Blacksburg, U.S. · Aug. 2024 — Now  
-Advisor: Prof. Qiang Li
-<!--GPA: 3.85 / 4.0  
-Thesis: *High-efficiency PoL Converter Design for xPU Applications*  -->
 
-**B.E. in Electronic Engineering**  
-_Dalian Maritime University_ <br>
-Dalian, China · Sept. 2020 — Jun. 2024  
-GPA: 4.2 / 5.0  
+- **Ph.D. in Electrical Engineering**  
+  _Virginia Tech_  
+  Blacksburg, U.S. · Aug. 2024 — Now  
+  Advisor: Prof. Qiang Li  
+
+- **B.E. in Electronic Engineering**  
+  _Dalian Maritime University_  
+  Dalian, China · Sept. 2020 — Jun. 2024  
+  GPA: 4.2 / 5.0  
+
+---
 
 ## Work Experience
-**Graduate Research Assistant**  
-<a href="https://cpes.vt.edu/"> Center for Power Electronis Systems</a>, _Virginia Tech_ <br>
-Blacksburg, U.S._ · Aug. 2024 — Now  
+
+- **Graduate Research Assistant**  
+  _Center for Power Electronics Systems, Virginia Tech_  
+  Blacksburg, U.S. · Aug. 2024 — Now  
+  Research focus: high-frequency DC-DC converters for datacenter PoL applications
+
 
 <!-- {% include_relative _includes/publications.md %} -->
 
