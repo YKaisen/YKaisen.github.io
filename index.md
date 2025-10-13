@@ -21,13 +21,11 @@ My research interest mainly focused on 48V Point-of-Load converter for data cent
 ## Education
 
 - **Ph.D. in Electrical Engineering**  
-  _Virginia Tech_  
-  Blacksburg, U.S. · Aug. 2024 — Now  
+  _Virginia Tech_ , Blacksburg, U.S. · Aug. 2024 — Now  
   Advisor: Prof. Qiang Li  
 
 - **B.E. in Electronic Engineering**  
-  _Dalian Maritime University_  
-  Dalian, China · Sept. 2020 — Jun. 2024  
+  _Dalian Maritime University_ , Dalian, China · Sept. 2020 — Jun. 2024  
   GPA: 4.2 / 5.0  
 
 ---
