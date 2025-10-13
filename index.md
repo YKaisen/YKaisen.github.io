@@ -28,7 +28,7 @@ Thesis: *High-efficiency PoL Converter Design for xPU Applications*  -->
 
 **B.E. in Electronic Engineering**  
 _Dalian Maritime University_ <br>
-Dalian, China_ · Sept. 2020 — Jun. 2024  
+Dalian, China · Sept. 2020 — Jun. 2024  
 GPA: 4.2 / 5.0  
 
 ## Work Experience
