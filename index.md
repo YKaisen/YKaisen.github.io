@@ -28,8 +28,6 @@ My research interest mainly focused on 48V Point-of-Load converter for data cent
   _Dalian Maritime University, Dalian, China · Sept. 2020 — Jun. 2024_  
   GPA: 4.2 / 5.0  
 
----
-
 ## Work Experience
 
 - **Graduate Research Assistant**  
