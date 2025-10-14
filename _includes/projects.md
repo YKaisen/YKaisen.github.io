@@ -44,6 +44,7 @@
     <div class="links">
 <!--     <a href="assets/files/single.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>-->
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Brakes</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Spark Plugs</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Front Bumper</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Fluids</a>
 <!--         <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
