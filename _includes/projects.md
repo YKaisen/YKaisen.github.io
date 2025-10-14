@@ -40,7 +40,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Car Maintenance and Repair</div>
     <div class="author"><strong>Kaisen Yang</strong></div>
-    <div class="periodical"><em>Christiansburg, May 2024</em></div>
+    <div class="periodical"><em>Christiansburg, May 2025</em></div>
     <div class="links">
 <!--     <a href="assets/files/single.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>-->
       <a href="assets/img/brakes.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Brakes</a>
