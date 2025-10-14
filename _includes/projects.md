@@ -29,6 +29,30 @@
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/UGprototype.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Special Project</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Car Maintenance and Repair</div>
+    <div class="author"><strong>Kaisen Yang</strong></div>
+    <div class="periodical"><em>May 2024.</em></div>
+    <div class="links">
+<!--     <a href="assets/files/single.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>-->
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Brakes</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Front Bumper</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Fluids</a>
+<!--         <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
 <!-- 
 <li>
 <div class="pub-row">
