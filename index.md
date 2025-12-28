@@ -9,7 +9,7 @@ I'm a PhD student at <a href="https://www.vt.edu/"> Virginia Tech</a>'s <a href=
 </p>
 
 <p align="justify">
-My research interest mainly focused on 48V Point-of-Load converter for data center power supply. Nowadays more than 80% costs of data centers' expenditure goes to electricity. Our goal is to expolore and develop high-performance, high-efficiency and high-density power solutions to alleviate the challenges of data centers.
+My research interest mainly focused on topologies, modeling and controls of Point-of-Load converter for data center power supply. Nowadays more than 80% costs of data centers' expenditure goes to electricity. Our goal is to expolore and develop high-performance, high-efficiency and high-density power solutions to alleviate the challenges of data centers.
 </p>
 
 <!-- This kind of mark can hide sentences -->
