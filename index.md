@@ -15,8 +15,8 @@ My research interest mainly focused on topologies, modeling and controls of Poin
 <!-- This kind of mark can hide sentences -->
 
 ## Research Interests
-- **DC-DC Converters:** topologies and controls for datacenter PoL converters
-- **Magnectic Integration:** design and optimizaion for PCB-based transformers and inductors
+- **DC-DC Converters:** topologies, modeling and controls for datacenter PoL converters
+- **Magnectic Integration:** design and optimizaion for PCB-based magnetics
 
 ## Education
 
