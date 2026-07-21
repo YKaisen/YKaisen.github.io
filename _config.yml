@@ -2,16 +2,16 @@ url: "https://ykaisen.github.io/"
 # Basic Information 
 title: Kaisen Yang
 subtitle: 0009-0000-6376-601X
-position: Graduate Research Asistant
+position: Product Application Engineer
 # subposition: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 # subposition_link: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-affiliation: Virginia Tech
-subaffiliation: Center for Power Electronics Systems
-affiliation_link: https://vt.edu/
-subaffiliation_link: https://cpes.vt.edu/
-email: kaisenyang@vt.edu
-address: 1185 Perry St. Blacksburg, VA 24061
-address_link: https://maps.app.goo.gl/3BR54dfmTgvwJrqa8
+affiliation: Analog Devices Inc.
+# subaffiliation: Center for Power Electronics Systems
+affiliation_link: https://www.analog.com/en/index.html
+# subaffiliation_link: https://cpes.vt.edu/
+email: kaisen.yang@analog.com
+address:160 Rio Robles San Jose, CA 95134
+address_link: https://maps.app.goo.gl/pQzG1iHeju5YXULs8
 
 
 
