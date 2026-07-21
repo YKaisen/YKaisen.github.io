@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 <p align="justify">
-I am a Product Application Engineer at <a href="https://www.analog.com/">Analog Devices, Inc.</a>, where I work on high-performance power management solutions for data center and computing applications.
+I am a Product Application Engineer at <a href="https://www.analog.com/">Analog Devices</a>, where I work on high-performance power management solutions for data center and computing applications.
 </p>
 
 <p align="justify">
