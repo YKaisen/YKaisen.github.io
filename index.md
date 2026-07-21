@@ -26,14 +26,14 @@ My research and work focuses on high-frequency power converter topologies, Point
 
 - **Graduate Research Assistant**  
   _Center for Power Electronics Systems, Virginia Tech_  
-  Blacksburg, Virginia · Aug. 2024 — May. 2026
+  Blacksburg, Virginia · Aug. 2024 — May. 2026  
   Research focus: high-frequency DC-DC converters for datacenter PoL applications
 
 ## Education
 
 - **M.Sc. in Electrical Engineering**  
   _Virginia Tech, Blacksburg, U.S. · Aug. 2024 — Max. 2026_<br>
-  Thesis: <a href="https://vtechworks.lib.vt.edu/items/5c521344-2a7c-42f0-b227-63bd82263ce2">Merged Half-Bridge 48V/1V Voltage Regulator</a>
+  Thesis: <a href="https://vtechworks.lib.vt.edu/items/5c521344-2a7c-42f0-b227-63bd82263ce2">Merged Half-Bridge 48V/1V Voltage Regulator</a>  
   Advisor: Prof. Qiang Li  
 
 - **B.E. in Electronic Engineering**  
