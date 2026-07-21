@@ -5,7 +5,6 @@ layout: homepage
 ## About Me
 
 <p align="justify">
-<p align="justify">
 I am a Product Application Engineer at <a href="https://www.analog.com/">Analog Devices, Inc.</a>, where I work on high-performance power management solutions for data center and computing applications.
 
 I received my M.S. degree in Electrical Engineering from <a href="https://www.vt.edu/">Virginia Tech</a> in the summer of 2026. During my master's study, I was in <a href="https://cpes.vt.edu/">Center for Power Electronics Systems (CPES)</a>, where I conducted research under the supervision of Prof. <a href="https://cpes.vt.edu/people/faculty/1703">Qiang Li</a>. Prior to that, I earned my B.Eng. degree from <a href="https://english.dlmu.edu.cn/">Dalian Maritime University</a> in the summer of 2024, graduating with the President's Scholarship and being recognized as one of the Top Ten Students. I was born and raised in Wenshui, Shanxi Province, China.
@@ -15,7 +14,6 @@ I received my M.S. degree in Electrical Engineering from <a href="https://www.vt
 <p align="justify">
 My research and work focuses on high-frequency power converter topologies, Point-of-Load (PoL) voltage regulators, converter modeling and control, magnetic integration, and high-efficiency, high-power-density power conversion technologies for data center applications.
 </p>
-
 
 <!-- This kind of mark can hide sentences -->
 
